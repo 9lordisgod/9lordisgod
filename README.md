@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=9lordisgod" alt="9lordisgod" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/lanlordno1" target="blank"><img src="https://img.shields.io/twitter/follow/lanlordno1?logo=twitter&style=for-the-badge" alt="lanlordno1" /></a> </p>
-
 - 🔭 I’m currently working on **Quant Millennium**
 
 - 🌱 I’m currently learning **https://algotradecamp.com/**
@@ -30,5 +28,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=9lordisgod&show_icons=true&locale=en" alt="9lordisgod" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=9lordisgod&" alt="9lordisgod" /></p>
+
 
 
