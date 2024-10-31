@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **https://algotradecamp.com/**
 
-- 👯 I’m looking to collaborate on **Bitcoin Projects**
+- 👯 I’m looking to collaborate on **Solana Projects**
 
 - 🤝 I’m looking for help with **AI Projects**
 
@@ -28,6 +28,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=9lordisgod&show_icons=true&locale=en" alt="9lordisgod" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=9lordisgod&" alt="9lordisgod" /></p>
+
 
 
 
