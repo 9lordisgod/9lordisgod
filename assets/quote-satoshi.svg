@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="200" viewBox="0 0 880 200">
+  <style>
+    .q { fill:#ffffff; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size:18px; letter-spacing:0.8px; }
+    .a { fill:#ffffff; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size:13px; letter-spacing:3px; opacity:0.75; }
+  </style>
+  <text class="q" x="0" y="36">"The root problem with conventional currency is all the</text>
+  <text class="q" x="0" y="66">trust that's required to make it work. The central bank</text>
+  <text class="q" x="0" y="96">must be trusted not to debase the currency, but the</text>
+  <text class="q" x="0" y="126">history of fiat currencies is full of breaches of that trust."</text>
+  <text class="a" x="0" y="176">— SATOSHI NAKAMOTO</text>
+</svg>
