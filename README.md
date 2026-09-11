@@ -1,7 +1,6 @@
 ### 👋 9lordisgod · Anon Rothschild
 
-Builder across Solana, Bitcoin, Monero, agents, and markets. 贪吃蛇 eats the calendar.
-
+Builder across Solana, Bitcoin, Monero, agents, and markets.
 <p align="center">
   <img src="assets/quote-satoshi.svg" width="880" alt="Satoshi Nakamoto quote"/>
 </p>
