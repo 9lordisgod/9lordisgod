@@ -1,4 +1,4 @@
-### 👋 9lordisgod · Anon Rothschild
+### 👋 9lordisgod · William
 
 Policy maker, philosopher.
 <p align="center">
