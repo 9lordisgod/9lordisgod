@@ -1,6 +1,6 @@
 ### 👋 9lordisgod · Anon Rothschild
 
-Builder across Solana, Bitcoin, Monero, agents, and markets.
+Policy maker, philosopher.
 <p align="center">
   <a href="https://kwanj.wordpress.com/wp-content/uploads/2016/02/mozi.pdf#page=6">
     <img src="assets/quote-mozi.svg" width="880" alt="Mozi quote from Impartial Caring"/>
