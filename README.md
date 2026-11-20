@@ -2,7 +2,9 @@
 
 Builder across Solana, Bitcoin, Monero, agents, and markets.
 <p align="center">
-  <img src="assets/quote-satoshi.svg" width="880" alt="Satoshi Nakamoto quote"/>
+  <a href="https://kwanj.wordpress.com/wp-content/uploads/2016/02/mozi.pdf#page=6">
+    <img src="assets/quote-mozi.svg" width="880" alt="Mozi quote from Impartial Caring"/>
+  </a>
 </p>
 
 
